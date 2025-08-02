@@ -1,1 +1,1 @@
-# odin-recipes1
+This is my first project. I'm going to build a simple website for listing recipes to practice my beginner HTML skills. I'll use paragraphs, headings, images, links, and lists.
